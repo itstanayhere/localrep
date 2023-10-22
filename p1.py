@@ -1,0 +1,1 @@
+print("Hari Patti Aankhe Laal Manipal Manipal")
